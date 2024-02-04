@@ -1,0 +1,14 @@
+/home/lcard00/Projects/dotNetBasic/bin/Debug/net8.0/dotNetBasic
+/home/lcard00/Projects/dotNetBasic/bin/Debug/net8.0/dotNetBasic.deps.json
+/home/lcard00/Projects/dotNetBasic/bin/Debug/net8.0/dotNetBasic.runtimeconfig.json
+/home/lcard00/Projects/dotNetBasic/bin/Debug/net8.0/dotNetBasic.dll
+/home/lcard00/Projects/dotNetBasic/bin/Debug/net8.0/dotNetBasic.pdb
+/home/lcard00/Projects/dotNetBasic/obj/Debug/net8.0/dotNetBasic.GeneratedMSBuildEditorConfig.editorconfig
+/home/lcard00/Projects/dotNetBasic/obj/Debug/net8.0/dotNetBasic.AssemblyInfoInputs.cache
+/home/lcard00/Projects/dotNetBasic/obj/Debug/net8.0/dotNetBasic.AssemblyInfo.cs
+/home/lcard00/Projects/dotNetBasic/obj/Debug/net8.0/dotNetBasic.csproj.CoreCompileInputs.cache
+/home/lcard00/Projects/dotNetBasic/obj/Debug/net8.0/dotNetBasic.dll
+/home/lcard00/Projects/dotNetBasic/obj/Debug/net8.0/refint/dotNetBasic.dll
+/home/lcard00/Projects/dotNetBasic/obj/Debug/net8.0/dotNetBasic.pdb
+/home/lcard00/Projects/dotNetBasic/obj/Debug/net8.0/dotNetBasic.genruntimeconfig.cache
+/home/lcard00/Projects/dotNetBasic/obj/Debug/net8.0/ref/dotNetBasic.dll

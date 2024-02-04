@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pk6FD0X94tXUbDl5wja2EKozho/XgW5Q4Dhtam6+wEcrNws9I3GEejugulflAa98d9viNH+3Ue0DLQTKeGHgoA==",
+  "success": true,
+  "projectFilePath": "/home/lcard00/Projects/dotNetBasic/dotNetBasic.csproj",
+  "expectedPackageFiles": [
+    "/home/lcard00/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
