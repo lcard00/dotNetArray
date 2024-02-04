@@ -12,3 +12,4 @@
 /home/lcard00/Projects/dotNetBasic/obj/Debug/net8.0/dotNetBasic.pdb
 /home/lcard00/Projects/dotNetBasic/obj/Debug/net8.0/dotNetBasic.genruntimeconfig.cache
 /home/lcard00/Projects/dotNetBasic/obj/Debug/net8.0/ref/dotNetBasic.dll
+/home/lcard00/Projects/dotNetBasic/obj/Debug/net8.0/dotNetBasic.sourcelink.json
